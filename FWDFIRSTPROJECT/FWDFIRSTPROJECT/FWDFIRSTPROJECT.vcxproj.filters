@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{cb8ade14-38a8-4bf1-88d2-1c72e8bcd6e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="card">
+      <UniqueIdentifier>{10fc9dc1-082d-4dab-8a10-2daaa52204e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="terminal">
+      <UniqueIdentifier>{7176a49a-cc76-4273-b253-6b9141f2e3fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="server">
+      <UniqueIdentifier>{298bc5a7-bad3-42ff-8623-45267a10d085}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\FWDCPROJECT\FWDCPROJECT\app.c">
+      <Filter>app</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\FWDCPROJECT\FWDCPROJECT\card.c">
+      <Filter>card</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\FWDCPROJECT\FWDCPROJECT\server.c">
+      <Filter>server</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\FWDCPROJECT\FWDCPROJECT\terminal.c">
+      <Filter>terminal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\FWDCPROJECT\FWDCPROJECT\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\FWDCPROJECT\FWDCPROJECT\app.h">
+      <Filter>app</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\FWDCPROJECT\FWDCPROJECT\card.h">
+      <Filter>card</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\FWDCPROJECT\FWDCPROJECT\server.h">
+      <Filter>server</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\FWDCPROJECT\FWDCPROJECT\terminal.h">
+      <Filter>terminal</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

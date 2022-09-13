@@ -1,0 +1,9 @@
+﻿  app.c
+D:\fwd\FWDCPROJECT\FWDCPROJECT\app.c(20,2): warning C4013: 'gets' undefined; assuming extern returning int
+  card.c
+D:\fwd\FWDCPROJECT\FWDCPROJECT\card.c(14,2): warning C4013: 'gets' undefined; assuming extern returning int
+  main.c
+  server.c
+  terminal.c
+  Generating Code...
+  FWDFIRSTPROJECT.vcxproj -> D:\fwd\FWDFIRSTPROJECT\x64\Debug\FWDFIRSTPROJECT.exe
